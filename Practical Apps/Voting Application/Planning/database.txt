@@ -1,0 +1,5 @@
+Tables:
+    Users - id, username, password
+    Suggested Features - id, username, title, description, status
+    Comments - id, user -id who commented, id of feature that user commented on, content, date+time (??) 
+    Votes- upvotes, downvotes, user-id of user who voted, id of feature that user voted for

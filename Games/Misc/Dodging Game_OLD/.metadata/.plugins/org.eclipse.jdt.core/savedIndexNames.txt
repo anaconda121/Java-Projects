@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\tanis\OneDrive\Desktop\Coding Projects\Java Projects\Games\Dodging Game\.metadata\.plugins\org.eclipse.jdt.core
+3997414270.index
+852993850.index

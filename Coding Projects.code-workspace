@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Coding Projects"
+		}
+	],
+	"settings": {
+		"vscode-janus-debug.uploadManually": [
+			"petstore"
+		],
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"jsoup-1.9.2.jar"
+		],
+		"files.exclude": {
+			"**/.classpath": true,
+			"**/.project": true,
+			"**/.settings": true,
+			"**/.factorypath": true
+		},
+		"java.dependency.packagePresentation": "hierarchical",
+		"java.dependency.syncWithFolderExplorer": false
+	}
+}

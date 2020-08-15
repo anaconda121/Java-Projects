@@ -1,0 +1,160 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MainApp<MOOCTextEditor>",
+            "request": "launch",
+            "mainClass": "application.MainApp",
+            "projectName": "MOOCTextEditor"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Css2Bin<MOOCTextEditor>",
+            "request": "launch",
+            "mainClass": "com.sun.javafx.css.parser.Css2Bin",
+            "projectName": "MOOCTextEditor"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BasicDocument<MOOCTextEditor>",
+            "request": "launch",
+            "mainClass": "document.BasicDocument",
+            "projectName": "MOOCTextEditor"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BasicDocumentGrader<MOOCTextEditor>",
+            "request": "launch",
+            "mainClass": "document.BasicDocumentGrader",
+            "projectName": "MOOCTextEditor"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DocumentBenchmarking<MOOCTextEditor>",
+            "request": "launch",
+            "mainClass": "document.DocumentBenchmarking",
+            "projectName": "MOOCTextEditor"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EfficientDocument<MOOCTextEditor>",
+            "request": "launch",
+            "mainClass": "document.EfficientDocument",
+            "projectName": "MOOCTextEditor"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EfficientDocumentGrader<MOOCTextEditor>",
+            "request": "launch",
+            "mainClass": "document.EfficientDocumentGrader",
+            "projectName": "MOOCTextEditor"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DictionaryBenchmarking<MOOCTextEditor>",
+            "request": "launch",
+            "mainClass": "spelling.DictionaryBenchmarking",
+            "projectName": "MOOCTextEditor"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DictionaryGrader<MOOCTextEditor>",
+            "request": "launch",
+            "mainClass": "spelling.DictionaryGrader",
+            "projectName": "MOOCTextEditor"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NearbyWords<MOOCTextEditor>",
+            "request": "launch",
+            "mainClass": "spelling.NearbyWords",
+            "projectName": "MOOCTextEditor"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NearbyWordsGraderOne<MOOCTextEditor>",
+            "request": "launch",
+            "mainClass": "spelling.NearbyWordsGraderOne",
+            "projectName": "MOOCTextEditor"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NearbyWordsGraderTwo<MOOCTextEditor>",
+            "request": "launch",
+            "mainClass": "spelling.NearbyWordsGraderTwo",
+            "projectName": "MOOCTextEditor"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TrieGrader<MOOCTextEditor>",
+            "request": "launch",
+            "mainClass": "spelling.TrieGrader",
+            "projectName": "MOOCTextEditor"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WPTreeGrader<MOOCTextEditor>",
+            "request": "launch",
+            "mainClass": "spelling.WPTreeGrader",
+            "projectName": "MOOCTextEditor"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MarkovTextGeneratorGrader<MOOCTextEditor>",
+            "request": "launch",
+            "mainClass": "textgen.MarkovTextGeneratorGrader",
+            "projectName": "MOOCTextEditor"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MarkovTextGeneratorLoL<MOOCTextEditor>",
+            "request": "launch",
+            "mainClass": "textgen.MarkovTextGeneratorLoL",
+            "projectName": "MOOCTextEditor"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MyLinkedListGrader<MOOCTextEditor>",
+            "request": "launch",
+            "mainClass": "textgen.MyLinkedListGrader",
+            "projectName": "MOOCTextEditor"
+        }
+    ]
+}

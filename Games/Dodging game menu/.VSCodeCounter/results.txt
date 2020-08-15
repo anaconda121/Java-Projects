@@ -1,0 +1,41 @@
+Date : 2020-07-08 15:37:45
+Directory : c:\Users\tanis\OneDrive\Desktop\Coding Projects\Java Projects\Games\Dodging game menu
+Total : 17 files,  810 codes, 54 comments, 253 blanks, all 1117 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Java     |         17 |        810 |         54 |        253 |      1,117 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                       | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                          |         17 |        810 |         54 |        253 |      1,117 |
++------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                   | language | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\tanis\OneDrive\Desktop\Coding Projects\Java Projects\Games\Dodging game menu\BasicEnemy.java      | Java     |         32 |          7 |         14 |         53 |
+| c:\Users\tanis\OneDrive\Desktop\Coding Projects\Java Projects\Games\Dodging game menu\EnemyBoss.java       | Java     |         53 |          2 |         16 |         71 |
+| c:\Users\tanis\OneDrive\Desktop\Coding Projects\Java Projects\Games\Dodging game menu\EnemyBossBullet.java | Java     |         28 |          0 |         10 |         38 |
+| c:\Users\tanis\OneDrive\Desktop\Coding Projects\Java Projects\Games\Dodging game menu\FastEnemy.java       | Java     |         32 |          7 |         16 |         55 |
+| c:\Users\tanis\OneDrive\Desktop\Coding Projects\Java Projects\Games\Dodging game menu\Game.java            | Java     |        125 |          3 |         28 |        156 |
+| c:\Users\tanis\OneDrive\Desktop\Coding Projects\Java Projects\Games\Dodging game menu\GameObject.java      | Java     |         47 |          1 |         16 |         64 |
+| c:\Users\tanis\OneDrive\Desktop\Coding Projects\Java Projects\Games\Dodging game menu\HUD.java             | Java     |         54 |          6 |         20 |         80 |
+| c:\Users\tanis\OneDrive\Desktop\Coding Projects\Java Projects\Games\Dodging game menu\Handler.java         | Java     |         32 |          0 |          7 |         39 |
+| c:\Users\tanis\OneDrive\Desktop\Coding Projects\Java Projects\Games\Dodging game menu\ID.java              | Java     |          9 |          1 |          1 |         11 |
+| c:\Users\tanis\OneDrive\Desktop\Coding Projects\Java Projects\Games\Dodging game menu\KeyInput.java        | Java     |         60 |          4 |         19 |         83 |
+| c:\Users\tanis\OneDrive\Desktop\Coding Projects\Java Projects\Games\Dodging game menu\Menu.java            | Java     |         88 |          9 |         28 |        125 |
+| c:\Users\tanis\OneDrive\Desktop\Coding Projects\Java Projects\Games\Dodging game menu\MenuParticle.java    | Java     |         44 |          0 |         16 |         60 |
+| c:\Users\tanis\OneDrive\Desktop\Coding Projects\Java Projects\Games\Dodging game menu\Player.java          | Java     |         45 |          8 |         15 |         68 |
+| c:\Users\tanis\OneDrive\Desktop\Coding Projects\Java Projects\Games\Dodging game menu\SmartEnemy.java      | Java     |         41 |          5 |         15 |         61 |
+| c:\Users\tanis\OneDrive\Desktop\Coding Projects\Java Projects\Games\Dodging game menu\Spawn.java           | Java     |         60 |          1 |         18 |         79 |
+| c:\Users\tanis\OneDrive\Desktop\Coding Projects\Java Projects\Games\Dodging game menu\Trail.java           | Java     |         42 |          0 |          8 |         50 |
+| c:\Users\tanis\OneDrive\Desktop\Coding Projects\Java Projects\Games\Dodging game menu\Window.java          | Java     |         18 |          0 |          6 |         24 |
+| Total                                                                                                      |          |        810 |         54 |        253 |      1,117 |
++------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
