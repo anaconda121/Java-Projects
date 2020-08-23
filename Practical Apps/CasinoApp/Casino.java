@@ -1,9 +1,11 @@
 import java.util.Scanner;
-
+import blackjack.Blackjack;
 
 public class Casino {
     
     public static void main(String [] args) {
+        Blackjack.play();
+        /*
         System.out.println("Hello User! Please deposit money into your checkings account so you could start to play!!");
         //ATM integration for users to deposit money
         Scanner sc = new Scanner(System.in);
@@ -80,7 +82,7 @@ public class Casino {
             if (rules.toLowerCase().equals("y") || rules.toLowerCase().equals("yes")) {
                 rules();
             }
-        }
+        }*/
     }
 
     public static double get_checking_bal(Account account) {

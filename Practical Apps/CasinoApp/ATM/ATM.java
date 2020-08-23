@@ -7,7 +7,7 @@ public class ATM {
         //default for testing
         Bank bank = new Bank("Tanish Tyagi Bank");
 		User user = bank.addUser("Tanish", "Tyagi", "1234");
-		Blackjack bj = new Blackjack();
+		//Blackjack bj = new Blackjack();
 
         Account account = new Account("Checking", user, bank);
         user.addAccount(account);
